@@ -27,7 +27,7 @@ Create a pull request filling the following form.
 
 | Authors | [Publication](link)                       | Journal | Impact factor | citation (as of `date`) |
 |---------|-------------------------------------------|---------|---------------|-------------------------|
-| Smith   | Imputation methods of right censored data | 3.2     |               | 2007                    |
+| Smith   | Imputation methods of right censored data | 3.2     |               | 44 (2007)                    |
 
 Check that:
 - [ ] I have read the contributing guidelines
