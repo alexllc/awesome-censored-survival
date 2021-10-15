@@ -27,7 +27,7 @@ Create a pull request filling the following form.
 
 | Authors | [Publication](link)                       | Journal | Impact factor | citation (as of `date`) | Code |
 |---------|-------------------------------------------|---------|---------------|-------------------------|
-| Smith et al.   | [Imputation methods of right censored data](link) |  Biometrica  |    3.2         | 44 (2007)        | [R](link) [Python](link) [C++](link)
+| Smith et al.   | [Imputation methods of right censored data](link) |  Biometrica  |    3.2         | 44 (2007)        | [R](link) [Python](link) [C++](link) |
 
 Check that:
 - [ ] I have read the contributing guidelines
